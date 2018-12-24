@@ -6,6 +6,7 @@ https://ml5js.org/
 MobileNet is an efective convolutional Neural Network for Mobile Apps
 https://arxiv.org/abs/1704.04861
 
-The ML5.js library gets all the dataset from imagenet.org
-    ImageNet is a reository of around 15million images gathered from google searches, Wikipedia, and other opens ources.
+The ML5.js library gets all the dataset from : http://image-net.org/
+   
+ImageNet is a repository of around 15million images gathered from google searches, Wikipedia, and other open sources.
     
