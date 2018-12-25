@@ -12,13 +12,15 @@ It is an opensourced classfier developer by ML Developers,  It works on the basi
 - The Data set needs an input as an image
 - The data set contains **Input**, image in (png, jpg) and its **label** in a .csv file
 
-# The files 
+# The Files 
 index.html file , the main initialization file 
 ## Examples and Setup : https://ml5js.org/docs/getting-started.html
 
 sketch.js , the main code for placing the image as input for classifier and steps of prediction
 
-# Runnig in Browser
+# Running in Browser
 To run the image classifier in browser , open the index.html file in local-host
 To enable prediction, replace the image in **puffin = createImg('path', imageReady);**   
 *here puffin is a variable*
+*Test Images of Penguin, Puffin is included*
+*To Test more images add images to the images folder*
