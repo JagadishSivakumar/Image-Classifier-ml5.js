@@ -25,4 +25,4 @@ To enable prediction, replace the image in **puffin = createImg('path', imageRea
 *here puffin is a variable*
 *Test Images of Penguin, Puffin is included*
 *To Test more images add images to the images folder*
-.Assign the user input to the variable value to make prediction instant
+. Assign the user input to the variable value to make prediction instant
