@@ -1,5 +1,5 @@
 let mobilenet;
-let penquin;
+let penguin;
 
 function modelReady() {
   console.log('Model is ready!!!');
@@ -27,7 +27,7 @@ function imageReady() {
 
 function setup() {
   createCanvas(640, 480);
-  puffin = createImg('images/penquin.jpg', imageReady);
+  puffin = createImg('images/penguin.jpg', imageReady);
   puffin.hide();
   background(0);
   mobilenet = ml5.imageClassifier('MobileNet', modelReady);
